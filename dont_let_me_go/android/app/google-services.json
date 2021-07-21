@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "297027762900",
+    "project_id": "dont-let-me-go",
+    "storage_bucket": "dont-let-me-go.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297027762900:android:04827d8643443b53c71941",
+        "android_client_info": {
+          "package_name": "com.justynagreda.dontletmego"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297027762900-p0rab28lq7vhrds6imb42fl3ioch50er.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2x_G_dYaFz3NkUcJmFsHk1JNmtAz85_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297027762900-p0rab28lq7vhrds6imb42fl3ioch50er.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
