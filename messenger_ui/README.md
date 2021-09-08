@@ -1,16 +1,6 @@
-# messenger_ui
-
-Simple messaging app UI
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Messenger UI
+Basic messaging application user interface inspired by Facebook Messenger. Chat screen with text form is also available.
+<p align = "middle">
+  <img src = "https://user-images.githubusercontent.com/83274413/126558997-3e487347-7a51-4bb2-bf10-0f0cd1b58834.jpg" width="225"/>
+  <img src = "https://user-images.githubusercontent.com/83274413/126559106-d9e06a17-edcb-43a9-84cb-241b7dca977a.jpg" width="225"/>
+</p>
