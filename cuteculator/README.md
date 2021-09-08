@@ -1,16 +1,7 @@
-# cuteculator
+### Cuteculator
+Simple calculator app wih cute pink interface and custom font. It provides use of simple operations such as division, multiplication, substraction, addition and percentage. It also allows the user to memorise the result and then recall it back from memory, if necessary. Control of long inputs and (many) exceptions are handled.
 
-Cute calculator made with Flutter
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align = "middle">
+  <img src = "https://user-images.githubusercontent.com/83274413/126558579-b142de0e-0db3-4caf-8973-cfa9d30747f4.jpg" width="225"/>
+  <img src = "https://user-images.githubusercontent.com/83274413/126558590-2c24950b-e862-434e-9a56-f3dc3fefd668.jpg" width="225"/>
+</p>
